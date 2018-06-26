@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset=utf-8>
+	<meta name=description content="Mobster movie Quiz App">
+	<meta name=viewport content="width=device-width, initial-scale=1">
+	<title>Mobster Quiz App</title>
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+	<section id="startPage" class="row" title="The start page for the mobster movie quiz application.">
+		<div class="col-6">
+			<h1 id="header" class="col-6">Mobster Movie Quiz</h1>
+			<img src="https://media1.giphy.com/media/vWWzIqgn3wHRK/200w.webp" id="headPic1" class="col-6" alt="Vito Corleone introduction image.">
+			<p id="instructions" class="col-6">Click Below to Begin!</p>
+		</div>
+		<button id="startGame" aria-live="polite">Start Quiz</button>
+	</section>
+
+	<section role="main" aria-live="assertive" hidden id="grid" class="row"></section>
+
+ 	<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+ 	<script src="QUIZ.js"></script>
+ 	<script src="index.js"></script>
+</body>
+</html>
