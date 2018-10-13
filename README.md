@@ -9,3 +9,7 @@ This a mobster movie quiz app test your mobster movie quiz knowledge!
 ![2018-10-13 1](https://user-images.githubusercontent.com/37715269/46910321-88132480-cef7-11e8-8512-b7d5505c56d3.png)
 
 There are 10 tough questions that will truly challenge you mobster movie knowledge. Enjoy!!
+<<<<<<< HEAD
+=======
+
+>>>>>>> 23bc87fef2d13f015f600167d50c1288325382ed
